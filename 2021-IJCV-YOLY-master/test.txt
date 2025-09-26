@@ -1,0 +1,10 @@
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
+Iteration 00100    Loss  0.100000 0.200000 2.0000% cur_ssim 0.300000 max_ssim: 0.400000 cur_psnr 0.500000 max_psnr 0.600000
